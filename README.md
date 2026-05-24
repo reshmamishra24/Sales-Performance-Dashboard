@@ -38,13 +38,17 @@ The dashboard is divided into two sections:
 - Sales Trend over time  
 - Region-wise performance  
 - Category contribution  
-- Segment analysis  
+- Segment analysis
+  
+![Dashboard](https://github.com/reshmamishra24/Sales-Performance-Dashboard/blob/main/dashboard_overview.png)
 
 ### 2. Product & Customer Analysis
 - Top products by sales  
 - Profit by category  
 - Loss-making products  
-- Top customers  
+- Top customers
+  
+![Dashboard](https://github.com/reshmamishra24/Sales-Performance-Dashboard/blob/main/product_analysis.png)
 
 ---
 
